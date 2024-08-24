@@ -8,7 +8,7 @@
 
 # Connect with me:
   - GitHub: [kingmal011](https://github.com/kingmal011)
-  - discord:[mal.1]
+  - discord: [mal.1]
 
 
 
