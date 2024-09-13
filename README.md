@@ -9,8 +9,5 @@
 # Connect with me:
   - GitHub: [kingmal011](https://github.com/kingmal011)
     
-# My profile on Discord
-![Profile Picture](https://cdn.discordapp.com/attachments/1273245274164428810/1276893960555593762/image.png?ex=66cb2fab&is=66c9de2b&hm=b4eab14b1c0418447b2d22cb75718f2cf53aea7f70bda99754bfd613dc21d249&)
-
 
   
